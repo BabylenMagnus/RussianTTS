@@ -1,0 +1,200 @@
+dataset/early_short_stories/early_short_stories_1519.wav|— Читал, читал — очень удачно.
+dataset/0/862040ebfccf.wav|у меня нет этому объяснения. все шиворот навыворот. те кто потерял все получили маленькую компенсацию
+dataset/shortstories_childrenadults/shortstories_childrenadults_3443.wav|Город почти опустел. Все наличные экипажи: одна имевшаяся в городе карета, несколько фаэтонов, дрожек и линеек — были заняты перевозкой любопытных;
+dataset/shortstories_childrenadults/shortstories_childrenadults_3418.wav|Две недели я вот пришёл со своими, прожились вовсе... — Ещё одной партии, старик, нет; надо подождать.
+dataset/early_short_stories/early_short_stories_0806.wav|До последней недели, правда, я не особенно много занималась Леной, потому что по ученической привычке откладывала пока можно,
+dataset/shortstories_childrenadults/shortstories_childrenadults_3251.wav|с возвышающеюся над ним деревянной колоколенкой кладбищенской церкви.
+dataset/icemarch/icemarch_0360.wav|глаза опущены. Со всех сторон из вагонов выпрыгивали и бежали люди: смотреть.Черноусого солдата вели к полю.
+dataset/shortstories_childrenadults/shortstories_childrenadults_3343.wav|забытой и тем, кто поёт её теперь под чужим, горящим звёздами небом, в чужих степях...
+dataset/shortstories_childrenadults/shortstories_childrenadults_2404.wav|ведь это всё равно, что по груди бить! — Всё равно.
+dataset/shortstories_childrenadults/shortstories_childrenadults_3544.wav|Писарь больницы, записывавший больного в большую истрёпанную книгу на залитом чернилами столе, не держался от улыбки.
+dataset/0/b26678dac503.wav|чем дальше ты ушел от себя настоящего, тем сильнее будет боль от увиденного
+dataset/early_short_stories/early_short_stories_1184.wav|— может быть, ему казалось это непозволительным по отношению к Мандрони — и даже мало говорил с нею;
+dataset/early_short_stories/early_short_stories_2894.wav|всех migragnosi в Италии, в России и в целом свете.
+dataset/0/58b1dc0cce3a.wav|концу две тысячи восемнадцатого года число пользователей достигнет трёх целых восми десятых миллиардов
+dataset/shortstories_childrenadults/shortstories_childrenadults_3404.wav|Может, вы нам поможете; бог вам за это пошлёт, господин добрый!
+dataset/shortstories_childrenadults/shortstories_childrenadults_3046.wav|Перед самим собою. Ах, довольно, довольно, довольно... — повторил он измученным, упавшим голосом и дрожащими руками старался открыть непослушный затвор револьвера.
+dataset/early_short_stories/early_short_stories_3570.wav|И тогда она мне ответила буквально следующее...
+dataset/early_short_stories/early_short_stories_0865.wav|«Кто тебе поручится, брат Антон Антоныч, что эту самую Надю, когда она была таким же клопом, не „описывала“ какая-нибудь добрая душа?
+dataset/early_short_stories/early_short_stories_2746.wav|— Хорошо. Принимаю вызов. Тогда он протянул мне руку и торжественно произнес: — Итак: мы остаемся друзьями;
+dataset/shortstories_childrenadults/shortstories_childrenadults_3560.wav|Швейцар отворил двери, и путники вступили в больницу. Это было большое каменное здание старинной казённой постройки.
+dataset/0_1/00159.wav|одна нелепая подростковая выходка обойдется вам ценой нескольких лет или даже всей жизни
+dataset/0_1/00312.wav|лучше вам стремиться быть похожим на эдисона
+dataset/early_short_stories/early_short_stories_2620.wav|Я проводил с нею часы почти каждый день, иногда наедине; тогда у меня были очень рыцарские взгляды в вопросах дружбы.
+dataset/icemarch/icemarch_1198.wav|но меня что-то тяжело давит, какое-то тяжелое чувство... да, Сережа... где он? что с ним? Въехали на круглую площадь.
+dataset/early_short_stories/early_short_stories_1088.wav|— и, гляжу, моя барышня возьми да и влюбись в Семена. Семен, понятно, взаимно,
+dataset/early_short_stories/early_short_stories_1240.wav|У Ниццы в груди сладко-сладко сжалось сердце. А папа спал. Ницца решительно заговорила: — Хорошо,
+dataset/early_short_stories/early_short_stories_2494.wav|в качестве жиры на следующее утро после вышеописанной ночи он предложил купцу подпись молодого русского помещика,
+dataset/icemarch/icemarch_1681.wav|На одном, на железной, крашеной дощечке выведено четким писарским почерком:
+dataset/shortstories_childrenadults/shortstories_childrenadults_2436.wav|Женская фигурка идёт с крутого берега с ведром за водой, спугивая стаю уток. Вот и всё; кажется, просто,
+dataset/shortstories_childrenadults/shortstories_childrenadults_0467.wav|пока не вернутся мои утки, которых я отпустила. Но утки уж никогда не вернулись.
+dataset/0/5c928bd9c854.wav|заключается в умении с причудливой точностью передавать ужасающую красоту созданного нами непостоянного мира
+dataset/shortstories_childrenadults/shortstories_childrenadults_2875.wav|И дрыхнет как, болван! Полчаса зову, не дозовусь. Дай огня!
+dataset/shortstories_childrenadults/shortstories_childrenadults_2667.wav|всё ж дома парень останется. Прощайте, будьте здоровы. — Прощай, брат... Что ж ты
+dataset/icemarch/icemarch_0409.wav|Казак Корнилов казался «национальным героем». Кругом же были «просто генералы».
+dataset/shortstories_childrenadults/shortstories_childrenadults_3022.wav|«Пётр Николаевич, — писал он, останавливаясь после каждого слова,
+dataset/early_short_stories/early_short_stories_0648.wav|и спросила, не видал ли я за последнее время ее дочери, которая куда-то исчезла. Я предложил ей тот же вопрос, и она ушла.
+dataset/early_short_stories/early_short_stories_2391.wav|Шах королеве. Вы теряете другого коня. — Бедные мои кони!.. Отец,
+dataset/icemarch/icemarch_1295.wav|Ген. Покровский, бывший шт.-кап., формировал с Эрдели добровольческие части в Екатеринодаре)
+dataset/early_short_stories/early_short_stories_2213.wav|хотя на них были бедные платьица, и не всегда чистенькие. У Ольги был жених из немецкой Швейцарии, сахарный приказчик,
+dataset/early_short_stories/early_short_stories_1864.wav|Я перейду прямо к моей задаче. Моя задача: выяснить,
+dataset/0/d41cfd213e37.wav|но в похожих на вымоины образованиях небольшое количество воды смешивается с массой перхлоратов
+dataset/early_short_stories/early_short_stories_0448.wav|И он полз всю ночь напролет, без устали и отдыха. Когда же наступило утро, и он с утесов морены взглянул вниз,
+dataset/early_short_stories/early_short_stories_1281.wav|а я как раз хотел просить тебя прочесть что-нибудь свое мадемуазель Ницце. Вот бы ты был благодарен, а?
+dataset/early_short_stories/early_short_stories_1356.wav|Другой женский голос ответил: Ja, Fräulein, nach Fiume, (Да, барышня, в Фиуме)
+dataset/early_short_stories/early_short_stories_0045.wav|Потом Авиноам унес бесчувственное тело Ариэля в отдаленную комнату.
+dataset/shortstories_childrenadults/shortstories_childrenadults_0941.wav|исходят из страха за собственную кожу?
+dataset/shortstories_childrenadults/shortstories_childrenadults_0474.wav|но держал и её строго, так, что не смела она сама заговаривать, а ждала, пока не спросит её или не скажет ей что-нибудь
+dataset/shortstories_childrenadults/shortstories_childrenadults_3714.wav|сквозь стеклянную дверь.
+dataset/shortstories_childrenadults/shortstories_childrenadults_2910.wav|Когда же я вижу похороны, маленькая шарманка тотчас начинает наигрывать мне на ухо: У девиц есть для птиц...
+dataset/early_short_stories/early_short_stories_2028.wav|— Правда, — послышались голоса.n«Ткачи» провалились. Я посмотрел па первую девицу-первокурсницу.
+dataset/shortstories_childrenadults/shortstories_childrenadults_2578.wav|что, как пейзажист, не соперничаю с ним, а его товарищи, должно быть, таки потирают руки. И то сказать: одним местом больше.
+dataset/early_short_stories/early_short_stories_2684.wav|— В чем дело? Вы поссорились? — Нет, — сказал я. — Но, à la longue, это смешно и не удобно.
+dataset/early_short_stories/early_short_stories_1042.wav|Джорджо сделал движение, чтобы остановить ее, но Адриана продолжала голосом, который все больше и больше дрожал: — Видите ли, синьора,
+dataset/shortstories_childrenadults/shortstories_childrenadults_2948.wav|— Обмани всех... Сделай из себя не то, что ты есть... Да разве я не старался делать это всю жизнь?
+dataset/icemarch/icemarch_1189.wav|Некрасовская // По зеленым, крутым холмам
+dataset/shortstories_childrenadults/shortstories_childrenadults_3582.wav|Может быть, самый ад? Ему пришло, наконец, в голову, что это какое-то испытание.
+dataset/icemarch/icemarch_0093.wav|Во главе — национальный герой, казак Лавр Корнилов. Вокруг него объединилось
+dataset/early_short_stories/early_short_stories_0677.wav|Она еще крепче прижала Гуальберту к себе, свертываясь в клубочек под одеялом. И на самом деле, атласная кожа куклы потеплела, Гуальберта зашевелилась
+dataset/0/c78770e944af.wav|все в возрасте тридцать сорок лет, с хорошей работой
+dataset/shortstories_childrenadults/shortstories_childrenadults_0198.wav|За версту отсюда есть деревня Лупаревка:
+dataset/shortstories_childrenadults/shortstories_childrenadults_3043.wav|вечная правда несуществования. Он услышал свой голос;
+dataset/early_short_stories/early_short_stories_3059.wav|Голос его дрожал: — Ты сейчас уедешь. Ради всего святого!
+dataset/icemarch/icemarch_1035.wav|Чаще с злым визгом рвутся шрапнели, чаще падают идущие люди. Уже свистят пули, захлопали пулеметы.
+dataset/early_short_stories/early_short_stories_3353.wav|Даже в деревнях, близ самого Шарлеруа, не только дети, но и старики употребляют массу французских оборотов.
+dataset/0/75ae9b8bd135.wav|ко сосредоточился на вспышках выстрелов из окна
+dataset/shortstories_childrenadults/shortstories_childrenadults_1926.wav|Встреча
+dataset/early_short_stories/early_short_stories_3545.wav|(— убийца австрийской императрицы Елизаветы) Содержание беседы могло быть ребяческим,
+dataset/0/894c7f815568.wav|например ученые из нидерландов составили свой опросный лист для выявления возможной зависимости
+dataset/0/342f3ef94121.wav|ожно назвать одним из самых замечательных ее свойств
+dataset/early_short_stories/early_short_stories_1302.wav|— Вы могли бы и не заговаривать об этом. Ее сразу охватила злоба на этого Сандро.
+dataset/shortstories_childrenadults/shortstories_childrenadults_0186.wav|Он на минуту остановился, присел на четыре задние ножки, а двумя передними отёр пот со своего измученного лица.
+dataset/shortstories_childrenadults/shortstories_childrenadults_3348.wav|Может быть, он пел про своих богов: как они жили, как воевали... Мы возвратились домой, и я лежу под одеялом,
+dataset/shortstories_childrenadults/shortstories_childrenadults_1164.wav|на семнадцати верстах двенадцать гор, а между ними всё топь.
+dataset/0/350f3dd00ac1.wav|временные рамки того когда это случится не играют роли. куда важнее сами ступени иерархии
+dataset/shortstories_childrenadults/shortstories_childrenadults_2324.wav|Что это нечто художественное — спора нет, но что это деятельность...
+dataset/0_1/00066.wav|выбрала для расчетов пятьсот метровый астероид бенну
+dataset/0/2cf7e20aa38e.wav|случаи когда экспрессия родительского гена влияет на фенотип потомства называют косвенными генетическими эффектами
+dataset/icemarch/icemarch_1866.wav|Шедший народ останавливается. Смотрят на нас. С палубы кто-то махнул платком.
+dataset/shortstories_childrenadults/shortstories_childrenadults_2950.wav|Вышло то, что даже теперь я ломаюсь, как актёр, даже теперь я не то(что я на самом деле.
+dataset/shortstories_childrenadults/shortstories_childrenadults_1298.wav|В ушах звон, голова отяжелела.
+dataset/0/b8b1f9862d30.wav|раньше никогда не слышал о совместном проекте новоорлеанских властей и палантир
+dataset/0_1/00176.wav|занимался с ними сексом и уходил оставляя их с инфекцией
+dataset/icemarch/icemarch_1714.wav|«А вы в прошлый-то раз были, что ль?» — спрашивает она. «В феврале-то? Были, а что?» — «Ничего,
+dataset/early_short_stories/early_short_stories_3609.wav|(способность разбираться)
+dataset/early_short_stories/early_short_stories_3333.wav|Вы, может быть, слышали, что во Франкфурте с этого года открыт университет; я, — прибавляет он скромно, —
+dataset/shortstories_childrenadults/shortstories_childrenadults_3704.wav|яркие цветы росли по краям верхней площадки, а в центре её красовалась большая, крупная и редкая, жёлтая с красными крапинками далия.
+dataset/shortstories_childrenadults/shortstories_childrenadults_2312.wav|разминает свои оцепеневшие от долгой неподвижности руки и ноги, обходится без помощи носового платка и прочее.
+dataset/shortstories_childrenadults/shortstories_childrenadults_0738.wav|Коли всякую скверность на бога взваливать, а самому сидеть да терпеть, так это, брат,
+dataset/icemarch/icemarch_1744.wav|день прошел — к нему товарищи, говорят: наблизация вышла, надо к комиссару идти... а он мне говорит,
+dataset/icemarch/icemarch_1407.wav|Большая комната застлана соломой. Подряд лежат раненые... Утро. Третий день штурма.
+dataset/icemarch/icemarch_0884.wav|Холодно. Идем... Черная темнота начинает сереть. С края горизонта чуть лезет бело-синий рассвет.
+dataset/icemarch/icemarch_0201.wav|недалеко от вокзала, на путях нашли труп подп. Крупенина; он лежал ничком,
+dataset/early_short_stories/early_short_stories_2611.wav|Ей никогда не приходило в голову смягчить его или мое поражение, сгладить укол, переменить тему:
+dataset/early_short_stories/early_short_stories_0191.wav|с воплем кинулся в черное ущелье Царра-Невады и исчез там навсегда.
+dataset/0/089be1119671.wav|такая ситуация грозит реальной опасностью
+dataset/early_short_stories/early_short_stories_1011.wav|— Вас не было со мною! Вы разлюбили меня и не хотели больше знать меня! Я падал на колени и с криком протягивал руки за вами... за вами...
+dataset/early_short_stories/early_short_stories_2487.wav|он крупно, смело и гулко шагал и все время говорил уверенно и громко среди ночного затишья. Я молчал и безобидно дивился его фантазии,
+dataset/0/c7fc6aa52d5f.wav|однако в две тысячи пятнадцатом году нэш погиб в автокатастрофе
+dataset/early_short_stories/early_short_stories_1636.wav|У меня жена, два сына и дочь Нинка. Три года тому назад Нинке было восемнадцать лет. Она была высокая,
+dataset/early_short_stories/early_short_stories_3052.wav|— спросил он, бегая глазами. Я ответил: — Долго объяснять, сейчас тронется поезд. Он сказал:
+dataset/0/14b3b656ab5e.wav|в наше представление о мире строится на опыте а опытом
+dataset/0/9cc39975e78e.wav|мы ориентируемся на прогресс предыдущих тридцати
+dataset/0/6d5ffbbde855.wav|друг другу не тождественны
+dataset/shortstories_childrenadults/shortstories_childrenadults_1725.wav|хоть в оврагах ещё лежал умиравший снег.
+dataset/early_short_stories/early_short_stories_2654.wav|Тогда я тоже отказался от своей комнаты, и мы решили поселиться там, где жила Диана, — в Борго. Это часть города по ту сторону Тибра,
+dataset/icemarch/icemarch_1149.wav|Около него: заведующий лазаретом, старший врач... Корнилов что-то говорит, резко жестикулируя. Видно, что он негодует?
+dataset/0/5d009b5062bb.wav|руссо подписывал большую часть своих работ как гражданин женевы
+dataset/shortstories_childrenadults/shortstories_childrenadults_0195.wav|— Верно, — глубокомысленно подтвердил гнедой. — Но всем вам всё-таки не увидеть
+dataset/shortstories_childrenadults/shortstories_childrenadults_3750.wav|При встрече с другими он далеко обходил их, боясь прикоснуться к ним краем одежды. «Не подходите, не подходите!» — кричал он.
+dataset/early_short_stories/early_short_stories_0067.wav|При этом в глазах Тамары засверкали слезы, краска залила ее грустное личико, она схватилась за сердце, наклонилась к Ариэлю и тихо спросила:
+dataset/early_short_stories/early_short_stories_0705.wav|Тут он постучался в дверь и спросил: «Sora Nanna, можно видеть Нинетту?»
+dataset/early_short_stories/early_short_stories_0199.wav|Однако на ней есть места, с которых открываются чудные виды на весь Оберланд, на голубое Тунское озеро и горы, начиная с огромного Низена
+dataset/early_short_stories/early_short_stories_3465.wav|Ему достаточно маленькой щели и крошечного мгновения, чтобы пустить свои корни, оставить свой налет.
+dataset/shortstories_childrenadults/shortstories_childrenadults_3167.wav|Ему стало ужасно жалко этих слёз шестилетнего мальчика, жалко того времени, когда он мог плакать оттого, что в его присутствии ударили беззащитного человека.
+dataset/early_short_stories/early_short_stories_0465.wav|В громадной зале, где они толпились, было светло, хотя нигде не видно было ни огня, ни щели наружу.
+dataset/early_short_stories/early_short_stories_1059.wav|Это были граф Венти-Рамполи и доктор. — Синьора, неужели вы все-таки уезжаете сейчас? — Это необходимо,
+dataset/early_short_stories/early_short_stories_2203.wav|— У твоей хозяйки прелестная дочка. Мне там жилось очень уютно.
+dataset/early_short_stories/early_short_stories_3440.wav|пестрая толпа есть и в Италии, но там она всегда благородна,
+dataset/early_short_stories/early_short_stories_0850.wav|но против мамы, как, по-твоему, прав он или нет?
+dataset/early_short_stories/early_short_stories_3704.wav|Г-н А.Б. состоит в Лондоне корреспондентом небольшой провинциальной русской газеты. Он говорит недурно по-английски,
+dataset/early_short_stories/early_short_stories_0238.wav|Вайблинген еще никогда не видел ее плачущей,
+dataset/shortstories_childrenadults/shortstories_childrenadults_2391.wav|Зачем ему эта река и это болото? — он никогда не задумывается. Он, кажется, образованный человек; по крайней мере кончил курс инженером.
+dataset/0_1/00072.wav|какие закономерности были обнаружены их нейросетью
+dataset/early_short_stories/early_short_stories_1814.wav|а «Лазурная Жаба» считалась нечестивейшим из декадентских подвалов, где, по слухам, ежемесячно устраивались
+dataset/shortstories_childrenadults/shortstories_childrenadults_1145.wav|верно я говорю. Папиросочку пожалуйте, барин! — вдруг оборвал он, вытянувшись передо мной во фронт и приложив руку к козырьку.
+dataset/shortstories_childrenadults/shortstories_childrenadults_3210.wav|Он почувствовал теперь, что не всё ещё пожрано идолом, которому он столько лет поклонялся,
+dataset/shortstories_childrenadults/shortstories_childrenadults_3317.wav|Многие, пришедшие первыми, жили на городском выгоне уже недели две; начальство ждало прихода всех переписанных к тому времени цыган, чтобы устроить разом большую казнь.
+dataset/shortstories_childrenadults/shortstories_childrenadults_2292.wav|Я знал, что ничто не оторвёт меня от них уже всю жизнь. Яличник скоро начал уставать;
+dataset/icemarch/icemarch_1837.wav|— «А многие бегут из армии, прямо на Ростов, на Новочеркасск».
+dataset/icemarch/icemarch_0157.wav|В это время в сто человек сформировался отряд полк. С., и через несколько дней мы несем первую службу
+dataset/shortstories_childrenadults/shortstories_childrenadults_2978.wav|Потом старик осмелел.
+dataset/0/ed2dde91477e.wav|рэй курцвейл придумал более простой способ оценить этот показатель
+dataset/0/d1662984f873.wav|которые подразумевали ничего не значащие не влекущие за собой никаких обязательств встречи
+dataset/icemarch/icemarch_0803.wav|Иди, говорю, да не попадайся.
+dataset/0/46a3bb0454d9.wav|работает он так, чтобы изменить модели поведения, человеку нужны мотивация возможность и триггеры
+dataset/shortstories_childrenadults/shortstories_childrenadults_0027.wav|— Я знаю это дерево. — И он назвал его родным именем. — Извините,
+dataset/early_short_stories/early_short_stories_3641.wav|— он только хлопал глазами и спрашивал: «Куа?» (что? по-французски)
+dataset/0_1/00318.wav|либо в группе где не требуется взаимодействие друг с другом
+dataset/shortstories_childrenadults/shortstories_childrenadults_2783.wav|но воспоминание о «не селёдках» в это мгновение мелькнуло у него в душе.
+dataset/shortstories_childrenadults/shortstories_childrenadults_1689.wav|Что он должен был сказать ей, он и сам не знал. «Скажу всё, открою душу»,
+dataset/icemarch/icemarch_1597.wav|«Корнилова здесь похоронили».— «Где?»
+dataset/early_short_stories/early_short_stories_1742.wav|и из Германии и Швеции получили на том же языке обстоятельные и любезные ответы о тамошних гимназиях.
+dataset/shortstories_childrenadults/shortstories_childrenadults_0215.wav|а в том лопухе, наверно, сидит ещё улитка. Вот вам и всё.
+dataset/shortstories_childrenadults/shortstories_childrenadults_0576.wav|Не узнала его в дурном платье и женина служанка.
+dataset/icemarch/icemarch_1075.wav|Черненькие фигурки уже не кричат... стали... толпятся... дрогнули.
+dataset/shortstories_childrenadults/shortstories_childrenadults_1276.wav|другим воткнул куда-то свой штык. Что-то не то зарычало, не то застонало.
+dataset/shortstories_childrenadults/shortstories_childrenadults_0050.wav|— Меня удивляют ваши слова, соседушка, — сказал пузатый кактус.
+dataset/0/ef412fb1afc9.wav|мы с мамой спорили до глубокой ночи, то и дело сдерживая слезы
+dataset/icemarch/icemarch_1186.wav|Ясно: большевики отступили, наши занимают станицу.
+dataset/0/97a6554f73ec.wav|общение одна из тех вещей, что делает нас людьми
+dataset/0/c7b216f804f5.wav|так трудно понять, любой дурак бы запомнил
+dataset/early_short_stories/early_short_stories_0820.wav|— Я не могла, мадмазель, — ответила девочка, степенно усаживаясь на стул. — Я и в класс не ходила. Мы были заняты. — Кто это «мы»?
+dataset/icemarch/icemarch_1260.wav|Нигде ни души. Валяются убитые. По улицам бродят, мыча, коровы, свиньи, летают еще не пойманные куры.
+dataset/shortstories_childrenadults/shortstories_childrenadults_3230.wav|на бледном лице.
+dataset/0/e6975d8c3a28.wav|эти меры предосторожности очень важны
+dataset/early_short_stories/early_short_stories_3111.wav|— Скажи мерси, блохой закуси и больше не проси. Тут я улыбаюсь до ушей и объявляю: — А меня приняли!
+dataset/0/d453b27a12b8.wav|говорит камилла кобб из вашингтонского университета
+dataset/icemarch/icemarch_1541.wav|«Не волнуйтесь, господа, это наши черкесы атаковали артиллерию»,— вполголоса говорит проезжающий верховой.
+dataset/shortstories_childrenadults/shortstories_childrenadults_2226.wav|Шаги глухо стучали по каменному полу. Шум падающей где-то струи воды звучал бесконечным аккордом.
+dataset/0/fad1f1dfadee.wav|все зависит лишь от того, сколько усилий вы готовы приложить
+dataset/icemarch/icemarch_1733.wav|поговорите». Я вошел. В комнате у окна сидят старуха и молодая женщина.
+dataset/early_short_stories/early_short_stories_2507.wav|Брюки мои, действительно, были плохи, это его коробило; он потащил меня к Боккони, выбрал мне штаны,
+dataset/0_1/00202.wav|которые борются с режимом президента башара аль асада
+dataset/shortstories_childrenadults/shortstories_childrenadults_3165.wav|— проговорил Алексей Петрович, встав с кресла и начиная ходить взад и вперёд по комнате: — я тогда
+dataset/shortstories_childrenadults/shortstories_childrenadults_2322.wav|Я должен во что бы то ни стало докатиться до станции, несмотря на то, что она, эта станция,
+dataset/early_short_stories/early_short_stories_3379.wav|Я обернусь цветком-малюткой В густой траве степной земли! — Что ж,
+dataset/icemarch/icemarch_0421.wav|Он поднимал казаков, ходил с ними в бой, но теперьего не слушают. «Чего нам говорить!»
+dataset/icemarch/icemarch_1910.wav|белыми хатами; говорливые, бойкие казачки быстро сбегают с ведрами с кручи к реке;
+dataset/icemarch/icemarch_0955.wav|Старая спряталась в окопчике. Четыре человека скорчились, плотно прижавшись. Тепло. Тихий разговор.
+dataset/early_short_stories/early_short_stories_2099.wav|и попросил ее: — Фрейлен Зина, пойдемте за кулисы, научите меня танцевать вальс, я хочу танцевать с вами.
+dataset/0/e8d89015ba21.wav|дело ближайшего будущего
+dataset/shortstories_childrenadults/shortstories_childrenadults_0473.wav|множество у него было богатства и слуг, с которыми он никогда не говорил: считал их недостойными. С женою своею жил в ладу,
+dataset/icemarch/icemarch_0541.wav|— в чем-то оправдывается адъютант. В кабинете смолкли голоса, в комнату вошел Корнилов.
+dataset/shortstories_childrenadults/shortstories_childrenadults_2430.wav|Что за идея! Что за поэзия в грязи! Здесь я могу сказать, никого и ничего не стесняясь, то, чего, конечно, не сказал бы при всех:
+dataset/icemarch/icemarch_1617.wav|Нач. 3-го отделения! Почему у вас такое отделение большое? — Не могу знать, говорит.
+dataset/early_short_stories/early_short_stories_3719.wav|Прежде, однако, чем это письмо дошло до него, я получил от него второе. Он просил прислать мой портрет для газет — если можно, в национальном русском костюме.
+dataset/early_short_stories/early_short_stories_3437.wav|они представляют главную прелесть многих очаровательных старинных городов нашего германского юга,
+dataset/0_1/00208.wav|расправил его в трубу и просверлил что то типа отверстия прямо над дверной ручкой
+dataset/0/aa84a28fbd41.wav|опять же, желания быть стивеном хокингом у меня нет, мне нужно чтобы у меня был его ум
+dataset/icemarch/icemarch_0723.wav|Далеко влево пронеслось «ура»... «Бегут! бегут!» — пролетело по цепи, и у всех забила радостно-охотничья страсть: бегут!
+dataset/icemarch/icemarch_1675.wav|— «То-то и я говорю, врали»,— повторяет женщина, а в глазах, в лице — страх, недоверие. Вышли из хаты.
+dataset/early_short_stories/early_short_stories_3195.wav|Вероятно, брели и молчали.
+dataset/0/9ea9dbf84163.wav|невзирая на протесты несчастных желаний получивших низкий приоритет помните только вы знаете что нужно делать
+dataset/early_short_stories/early_short_stories_2375.wav|— А я тем временем уже сняла у вас третью пешку. Вы рассеяны! — Нет, не рассеян:
+dataset/shortstories_childrenadults/shortstories_childrenadults_2798.wav|— думает Александр Михайлович. — Мало они в училище надоели! Да и ничего нового не скажут, будут читать по старым запискам...»
+dataset/icemarch/icemarch_0648.wav|— раскинулась белая, тающая степь без конца, и в этом просторе изогнулась черной змейкой маленькая армия,
+dataset/early_short_stories/early_short_stories_0123.wav|Но старик, из которого жизнь уходила, как песок из горсти, прервал ласки Аль-Джанеско и сказал:
+dataset/early_short_stories/early_short_stories_2957.wav|Худой воротничек — это не привлекательно, что и говорить. — Она говорит, что ты скуп, как раввин,
+dataset/early_short_stories/early_short_stories_0657.wav|— Я хотел было подождать вечера и устроить ей сюрприз на елку. Но надо будет отдать ей куклу теперь же, а то она слишком взволнована.
+dataset/icemarch/icemarch_0628.wav|Ночью аксайские казаки обстреливают наши посты. Полк. С.
+dataset/early_short_stories/early_short_stories_2950.wav|— Спасибо, присяду. Мы помолчали. — Она мне все сказала, — начал он знакомым, дразнящим тоном.
+dataset/early_short_stories/early_short_stories_3757.wav|попросту говоря, оно боится надоесть публике. Но есть великие вещи, которые будничны
+dataset/early_short_stories/early_short_stories_1148.wav|пропасть...
+dataset/0/b26c9cfcccd7.wav|для сравнения, от носителя полиомиелита или оспы обычно заражаются пять семь человек
+dataset/early_short_stories/early_short_stories_2279.wav|Когда-то
+dataset/icemarch/icemarch_0549.wav|ваша фамилия?» Я вышел в зал.
+dataset/early_short_stories/early_short_stories_2665.wav|А живет в Борго коренное, исконное римское мещанство, romani de Roma;
+dataset/early_short_stories/early_short_stories_0323.wav|(Иди сюда!)
+dataset/shortstories_childrenadults/shortstories_childrenadults_0345.wav|Прилетел соловей, забрался в розовый куст и запел свою песню. Как она была не похожа на хрипение жабы!
+dataset/shortstories_childrenadults/shortstories_childrenadults_0561.wav|ехал я через ваш город по делам, да дорогой напали на меня разбойники, всего избили и ограбили,
