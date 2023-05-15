@@ -116,7 +116,6 @@ class GradTTS(BaseModule):
                 Should be divisible by 2^{num of UNet downsamplings}. Needed to increase batch size.
         """
         x, x_lengths, y, y_lengths = self.relocate_input([x, x_lengths, y, y_lengths])
-
         if self.n_spks > 1:
             # Get speaker embedding
             spk = self.spk_emb(spk)
@@ -126,6 +125,7 @@ class GradTTS(BaseModule):
         y_max_length = y.shape[-1]
 
         y_mask = sequence_mask(y_lengths, y_max_length).unsqueeze(1).to(x_mask)
+
         attn_mask = x_mask.unsqueeze(-1) * y_mask.unsqueeze(2)
 
         # Use MAS to find most likely alignment `attn` between text and mel-spectrogram

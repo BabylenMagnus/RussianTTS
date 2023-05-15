@@ -161,7 +161,6 @@ if __name__ == "__main__":
                         f' {prior_loss.item()}, diff_loss: {diff_loss.item()}'
 
                     progress_bar.set_description(msg)
-                
                 iteration += 1
                 # if iteration == 2:
                 #     break
